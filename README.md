@@ -1,4 +1,4 @@
-# Vehical_Market_Segment_Cluster
+# Vehicle_Market_Segmentation_Analysis
 
 
 ## Acknowledgments
